@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hrithikakhil
 - 🌍 I'm based in Bengaluru
 - 👀 I’m interested in solving problems and building Web based Applications using Java & SpringBoot 
-- 🌱 I’m currently learning Spring Framework Modules and High Level Design
+- 🌱 I’m currently learning Spring Framework Modules, High Level Design and Kafka
 - 💞️ I’m looking to collaborate on Projects that involves Java and Spring Boot
 - 📫 How to reach me hrithikakhil007@gmail.com / https://www.linkedin.com/in/hrithikakhil18/
 - 👯 I’m looking forward to be a part of various interesting projects.
